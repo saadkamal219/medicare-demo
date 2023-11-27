@@ -1,5 +1,5 @@
-# software_project_2
+# medicare demo project
 
-Go live by clicking the link bellow: 
+Go live by clicking the link below: 
 
-https://saadkamal219.github.io/software_project_2/
+https://saadkamal219.github.io/medicare-demo/
